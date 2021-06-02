@@ -4,7 +4,13 @@ title: Resources
 permalink: /resources/
 ---
 
-### Links
-* [LaTeX pastebin](mathb.in)
-* [List of books from Freenode's ##math](https://freenode-math.fandom.com/wiki/Book_List)
+### Informative
+* [MathWorld](https://mathworld.wolfram.com/)
+* [List of books](https://freenode-math.fandom.com/wiki/Book_List) from freenode's ##math
+* [List of books](https://www.efnet-math.org/w/Book_Recommendations) from EFnet's #math
+
+### Useful
+* [LaTeX pastebin](http://mathb.in)
 * [Look up LaTeX symbols](http://detexify.kirelabs.org/classify.html)
+* [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+* [Math StackExchange](https://math.stackexchange.com/)
