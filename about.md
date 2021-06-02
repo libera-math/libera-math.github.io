@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-*<b>This website is a draft.</b>*
-
 Welcome to the [Libera Chat](https://libera.chat/) ##math channel's home page!
 We are an IRC community interested in mathematics on all levels.
 
