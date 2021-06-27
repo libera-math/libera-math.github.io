@@ -22,6 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  libera-math
 author: :-)
+header_pages: # pages to be listed in the default header
+  - about.md
+  - community.md
+  - resources.md
 
 # Build settings
 markdown: kramdown
