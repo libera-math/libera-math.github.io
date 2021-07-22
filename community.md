@@ -4,6 +4,9 @@ title: Community
 permalink: /community/
 ---
 
+### About
 Libera ##math is operated by a small group of volunteers.
 You can find us on the ##math-ops channel.
-Feedback on the website is also welcome at [github](https://github.com/libera-math/libera-math.github.io).
+
+### Contributing
+Feedback on the website is welcome on ##math-ops, and at [github](https://github.com/libera-math/libera-math.github.io).
