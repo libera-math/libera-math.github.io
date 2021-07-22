@@ -8,7 +8,7 @@ permalink: /resources/books/
 
 This page lists books that people from Libera ##math found useful.
 
-Additions are welcome! See the [community page](/community/#contrubuting).
+Additions are welcome! See the [community page](/community/#contributing).
 
 Other book lists: [freenode ##math](https://freenode-math.fandom.com/wiki/Book_List), [EFnet ##math](https://www.efnet-math.org/w/Book_Recommendations)
 
