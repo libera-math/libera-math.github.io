@@ -15,3 +15,12 @@ Other book lists: [freenode ##math](https://freenode-math.fandom.com/wiki/Book_L
 ### Uncategorized
 0. Martin Aigner and Günter M. Ziegler, [Proofs from THE BOOK](https://www.springer.com/gp/book/9783642008566). ([Wikipedia](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK))
   - mostly elementary proofs from various areas that are just beautiful
+
+### History
+0. John Stillwell, [Mathematics and Its History](https://www.springer.com/gp/book/9781441960528).
+  - broadly describes the development of different branches of math, with short profiles of mathematicians and optional exercises
+
+### Real Analysis
+#### Undergraduate
+0. Charles Chapman Pugh, [Real Mathematical Analysis](https://www.springer.com/gp/book/9783319177700).
+  - comprehensive text with a large variety of problems; has many pictures, multiple constructions of R, metric topology, and extra sections on linear algebra, differential forms, and Lebesgue measure.
