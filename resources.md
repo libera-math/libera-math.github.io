@@ -10,7 +10,7 @@ permalink: /resources/
 * [List of books](https://freenode-math.fandom.com/wiki/Book_List) from freenode's ##math
 * [List of books](https://www.efnet-math.org/w/Book_Recommendations) from EFnet's #math
 * Our own [list of books](/resources/books/) (very preliminary)
-* A curates list of [math resources](https://github.com/rossant/awesome-math)
+* A curated list of [math resources](https://github.com/rossant/awesome-math)
 
 ### Useful
 * [LaTeX pastebin](http://mathb.in)
