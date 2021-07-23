@@ -4,13 +4,14 @@ title: Books
 permalink: /resources/books/
 ---
 
-*This page is a stub.*
+*This page is preliminary.*
 
 This page lists books that people from Libera ##math found useful.
+Note that taste in books varies wildly, so we don't officially endorse any of the books.
 
 Additions are welcome! See the [community page](/community/#contributing).
 
-Other book lists: [freenode ##math](https://freenode-math.fandom.com/wiki/Book_List), [EFnet ##math](https://www.efnet-math.org/w/Book_Recommendations)
+Other book lists: [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm), [freenode ##math](https://freenode-math.fandom.com/wiki/Book_List), [EFnet ##math](https://www.efnet-math.org/w/Book_Recommendations).
 
 ### Uncategorized
 0. Martin Aigner and Günter M. Ziegler, [Proofs from THE BOOK](https://www.springer.com/gp/book/9783642008566). ([Wikipedia](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK))
