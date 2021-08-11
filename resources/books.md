@@ -16,6 +16,8 @@ Other book lists: [Chicago undergraduate mathematics bibliography](https://www.o
 ### Uncategorized
 0. Martin Aigner and Günter M. Ziegler, [Proofs from THE BOOK](https://www.springer.com/gp/book/9783642008566). ([Wikipedia](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK))
   - mostly elementary proofs from various areas that are just beautiful
+1. Evan Chen, [An Infinitely Large Napkin](https://web.evanchen.cc/napkin.html)
+  - An accessable overview of mathematics as a whole. Covers a very wide range of topics for those wanting to get a big picture overview.
 
 ### History
 0. John Stillwell, [Mathematics and Its History](https://www.springer.com/gp/book/9781441960528).
@@ -25,3 +27,24 @@ Other book lists: [Chicago undergraduate mathematics bibliography](https://www.o
 #### Undergraduate
 0. Charles Chapman Pugh, [Real Mathematical Analysis](https://www.springer.com/gp/book/9783319177700).
   - comprehensive text with a large variety of problems; has many pictures, multiple constructions of R, metric topology, and extra sections on linear algebra, differential forms, and Lebesgue measure.
+
+### Complex Analysis
+0. Freitag, Eberhard, Busam, Rolf. [Complex Analysis](https://www.springer.com/gp/book/9783540939825)
+  - Develops the theory of complex functions. The early chapters provide the foundational theorems of the subject and show how to use this toolbox to solve integrals. Further continues on to develop the theory of elliptic functions and some special functions like Euler's Gamma function.
+
+### Algebra
+
+#### General Algebra
+
+0. David S. Dummit, Richard M. Foote, [Abstract Algebra, 3rd Edition](https://www.wiley.com/en-gb/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
+ - A very comprehensive textbook on algebra. Groups, Galois theory. Very complete and lots of interesting exercises to consolidate the material.
+1. Paolo Aluffi, [Algebra Chapter 0.](https://bookstore.ams.org/gsm-104)
+ - An excellent comprehensive algebra textbook that uses category theory language throughout.
+
+#### Category Theory
+
+0. Emily Riehl, [Category Theory in Context](https://math.jhu.edu/~eriehl/context.pdf)
+ - A complete textbook on category theory. If you want to learn the Yoneda lemma this is a good place to go.
+1. Brendan Fong, David I Spivak, [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
+ - This book has applications and use-cases of category theory in a variety of contexts. Excellent if you are feeling like standard category theory books are a bit dry or abstract.
+
