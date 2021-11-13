@@ -9,7 +9,7 @@ permalink: /resources/
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
 * [List of books](https://freenode-math.fandom.com/wiki/Book_List) from freenode's ##math
 * [List of books](https://www.efnet-math.org/w/Book_Recommendations) from EFnet's #math
-* Our own [list of books](/resources/books/) (very preliminary)
+* Our own [list of books](/resources/books/) (work in progress)
 * A curated list of [math resources](https://github.com/rossant/awesome-math)
 
 ### Useful
