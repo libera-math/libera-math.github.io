@@ -13,7 +13,7 @@ Additions are welcome! See the [community page](/community/#contributing).
 
 Other book lists: [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm), [freenode ##math](https://freenode-math.fandom.com/wiki/Book_List), [EFnet ##math](https://www.efnet-math.org/w/Book_Recommendations).
 
-Contributors: greenbagels, int-e, rain1, savask
+Contributors: greenbagels, int-e, Khwarizmi, rain1, savask
 
 
 ### Uncategorized
@@ -136,3 +136,9 @@ Contributors: greenbagels, int-e, rain1, savask
 
   Textbook about Shannon's fundamental work in information theory.
   Covers topics like entropy, error-correcting codes, compression, noisy channels.
+
+#### Machine Learning
+
+- __Emil Hvitfeldt, Julia Silge, [Supervised Machine Learning for Text Analysis in R](https://smltar.com/).__
+
+  Supervised Machine Learning for Text Analysis in R provides comprehensive instruction in statistical regression and classification using the modern Tidyverse ecosystem for R, including random forests, SVMs and deep learning models.
